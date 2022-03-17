@@ -12,7 +12,7 @@ const Layout: React.FC<LayoutProps> = ({ children, title }) => {
     return (
         <>
             <Head>
-                <title>{title} | AndrewDesignPictures</title>
+                <title>{title} | Harger</title>
             </Head>
             <Header />
             <main>
